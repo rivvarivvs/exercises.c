@@ -31,6 +31,12 @@
 		<Compiler>
 			<Add option="-Wall" />
 		</Compiler>
+		<Unit filename="exercisepointer4.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="exercisepointer5.c">
+			<Option compilerVar="CC" />
+		</Unit>
 		<Extensions>
 			<lib_finder disable_auto="1" />
 		</Extensions>
